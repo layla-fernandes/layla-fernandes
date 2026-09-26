@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B4E,100:6A1B9A&height=180&section=header&text=Layla%20Fernandes&fontSize=45&fontColor=E0C3FC&animation=fadeIn&fontAlignY=40&desc=Estudante%20de%20Inform%C3%A1tica%20%7C%20Back-end%20em%20constru%C3%A7%C3%A3o&descAlignY=60&descSize=18" width="100%"/>
-
-</div>
+<h1 align="left">Olá, seja bem vindo(a) ao meu GitHub</h1>
 
 Aqui você encontrará projetos e estudos que refletem minha jornada de aprendizado em programação.
 
@@ -58,11 +54,3 @@ Nas horas livres, também gosto de jogos, que me ajudam a desestressar entre um 
 </a>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,100:2D1B4E&height=100&section=footer" width="100%"/>
-
-</div>     
